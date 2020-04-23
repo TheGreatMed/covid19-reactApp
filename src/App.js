@@ -45,7 +45,7 @@ class App extends React.Component {
       <Infos lastUpdate={lastUpdate}/>
        <br></br><br></br>
       <Cards data={data} />
-      
+      <br></br>
       <br></br><br></br>
       <Countries onCountryChange={this.onCountryChange} />
         <br></br>
