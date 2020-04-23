@@ -1,0 +1,22 @@
+.Card{
+   max-width: 350px;
+   box-shadow: 1px 2px 1px 2px ;
+   
+}
+.navRight{
+   justify-content: right !important;
+}
+.CardImg{
+  height: 250px;
+  width: 250px;
+}
+.CardBody{
+  background-color: gainsboro
+}
+.image {
+  width: 70px;
+  margin-top: 5px;
+ 
+}
+
+
